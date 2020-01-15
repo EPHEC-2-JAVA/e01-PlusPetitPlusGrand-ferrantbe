@@ -1,2 +1,2 @@
-# java1920
+# java 2020
 Java 2 EPHEC 2019-2020
