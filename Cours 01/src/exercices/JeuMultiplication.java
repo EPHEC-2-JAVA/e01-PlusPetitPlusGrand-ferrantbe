@@ -9,4 +9,6 @@ public class JeuMultiplication {
     La méthode Math.random() retourne une valeur décomale comprise entre 0 et 1.
     Pour obtenir la valeur entière d'un décimal, utilisez le cast: (int)valeur
      */
+    for(int i = 0; i < 10; i++)
+        System.out.println("Hello!");
 }
